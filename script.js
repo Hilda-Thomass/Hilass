@@ -11,7 +11,7 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Thomass, for real? Why did you follow to me 🤔",
+    "Babyy,for real? 🤔",
     "Babyy please... 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
